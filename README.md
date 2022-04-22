@@ -1,2 +1,2 @@
-# .github
+# EAVFW
 EAVFW - Documentation
